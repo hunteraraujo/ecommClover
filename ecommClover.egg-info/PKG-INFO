@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ecommClover
+Version: 1.0.0
+Summary: Python SDK for Clover's E-Commerce APIs.
+Home-page: https://github.com/clover/ecomm-SDK-python
+Author: Clover
+Author-email: support@clover.com, deepali.mittal@clover.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/clover/ecomm-SDK-python/issues
+Project-URL: Documentation, https://docs.clover.com
+Project-URL: Source Code, https://github.com/clover/ecomm-SDK-python
+Keywords: clover api payments
+Requires-Python: >=3.0
